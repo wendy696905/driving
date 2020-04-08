@@ -11,3 +11,5 @@ elif country == 'America':
     	print('You can have a driving license.')
     else:
     	print('You cannot have a driving license.')
+else:
+	print('this can only track the country of Taiwan or America')
